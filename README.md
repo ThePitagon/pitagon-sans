@@ -24,7 +24,7 @@ Pitagon Sans is a part of the Pitagon font set, which be used in Pi Design Syste
 
 Pitagon Sans is a fresh take on geometric sans serif styles, contains the Pitagon Design Principles embodied in the
 Pitagon Design System (Pi Design System). Pitagon Sans is implemented and inspired by open source font sets like as
-Maven Pro. The font set is used in the context of specific use of big text such as title, heading, etc.
+Quicksand, Maven Pro. The font set is used in the context of specific use of big text such as title, heading, etc.
 
 Taking inspiration in Maven Pro with unique curvature and flowing rhythm, the font set is very distinguishable and
 legible when in context. It blends styles of many great typefaces and is suitable for any design medium. The font set
