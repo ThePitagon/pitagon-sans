@@ -35,12 +35,30 @@ The font set are made available for public use under the SIL Open Font License.
 To contribute, visit <a href="https://github.com/ThePitagon/pitagon-sans" target="_blank">Pitagon Sans's
 GitHub repository</a>.
 
+## Design principles
+
+* Be available as a free, open source webfont on any platform.
+* Apply the Pi Design System to the fullest extent.
+* Use metrics similar to common system fonts for smoother progressive enhancement with base unit measurements of 4.
+* Minimize triggers for common human syndromes such as Trypophobia (fear of holes) and Aichmophobia (fear of sharp objects).
+* Avoid using sharp corners for continuous lines. Round off corners on outer edges. Corners at the intersection of lines should not be rounded.
+* Have a broad range of weights and a good italic.
+* Perform well in headlines, title.
+* Have good multilingual support.
+* Encourage continuous improvement — strive to be better, not necessarily perfect. Always "<b><i>BREAKTHROUGH</i></b> the limits".
+
+## How Pitagon Sans differs from Maven Pro
+
+![Comparison Image](documentation/image2.png)
+
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
 If you want to build fonts manually on your own computer:
 
+* `python3 get-pip.py` to install/upgrade pip to the latest python.
+* `pip install -r requirements.txt` to install all the required libraries.
 * `make build` will produce font files.
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
@@ -57,6 +75,15 @@ Release date: 08 March 2023
 - First public released.
 - Open sourced.
 - Add icon characters.
+
+### v1.1.1
+
+Release date: 04 August 2023
+
+- Fix bug of character .
+- Implement Pi Design System.
+- Add some icon characters.
+- Add Python script that support generating a comparison image of two fonts by overlap same code characters.
 
 ## Download
 
