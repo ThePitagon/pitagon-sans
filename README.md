@@ -43,13 +43,32 @@ GitHub repository</a>.
 * Minimize triggers for common human syndromes such as Trypophobia (fear of holes) and Aichmophobia (fear of sharp objects).
 * Avoid using sharp corners for continuous lines. Round off corners on outer edges. Corners at the intersection of lines should not be rounded.
 * Have a broad range of weights and a good italic.
+* All uppercase characters have the same style as lowercase characters.
 * Perform well in headlines, title.
 * Have good multilingual support.
 * Encourage continuous improvement — strive to be better, not necessarily perfect. Always "<b><i>BREAKTHROUGH</i></b> the limits".
 
 ## How Pitagon Sans differs from Maven Pro
 
-![Comparison Image](documentation/image2.png)
+### Alphabet Characters
+
+![Comparison Alphabet](documentation%2Fcomparison_alphabet.png)
+
+### Numeric Characters
+
+![Comparison Numeric](documentation%2Fcomparison_numeric.png)
+
+### Symbol Characters
+
+![Comparison Symbol](documentation%2Fcomparison_symbol.png)
+
+### Extended Characters
+
+![Comparison Extended](documentation%2Fcomparison_extended.png)
+
+### Ligatures and Typographical Features
+
+![Comparison Ligature](documentation%2Fcomparison_ligature.png)
 
 ## Building
 
@@ -80,7 +99,7 @@ Release date: 08 March 2023
 
 Release date: 04 August 2023
 
-- Fix bug of character .
+- Fix bug of character v in Maven Pro.
 - Implement Pi Design System.
 - Add some icon characters.
 - Add Python script that support generating a comparison image of two fonts by overlap same code characters.
