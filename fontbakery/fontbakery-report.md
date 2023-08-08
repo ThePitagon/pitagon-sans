@@ -2,21 +2,7 @@
 
 Fontbakery version: 0.8.11
 
-<details><summary><b>[21] PitagonSans-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[20] PitagonSans-Black.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -788,21 +774,7 @@ notequal
 	* uni1EB5 (U+1EB5): L<<519.0,342.0>--<518.0,105.0>> 
 
 	* uni1EB7 (U+1EB7): L<<519.0,342.0>--<518.0,105.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[21] PitagonSans-Bold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[20] PitagonSans-Bold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -1590,21 +1562,7 @@ notequal
 	* uni1EB5 (U+1EB5): L<<506.0,344.0>--<505.0,105.0>> 
 
 	* uni1EB7 (U+1EB7): L<<506.0,344.0>--<505.0,105.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[22] PitagonSans-ExtraBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[21] PitagonSans-ExtraBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -2423,21 +2381,7 @@ notequal
 	* uni1EB5 (U+1EB5): L<<512.0,343.0>--<511.0,105.0>> 
 
 	* uni1EB7 (U+1EB7): L<<512.0,343.0>--<511.0,105.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[20] PitagonSans-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[19] PitagonSans-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -2728,7 +2672,7 @@ Width = 566:
 minus
 
 Width = 568:
-lessequal, greaterequal
+greaterequal, lessequal
  [code: width-outliers]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
 
@@ -3114,21 +3058,7 @@ lessequal, greaterequal
 	* pisafe (U+E010): L<<795.0,490.0>--<796.0,487.0>>/B<<796.0,487.0>-<795.0,489.0>-<795.0,490.0>> = 8.13010235415587 
 
 	* pisafe (U+E010): L<<796.0,485.0>--<797.0,482.0>>/B<<797.0,482.0>-<796.0,484.0>-<796.0,485.0>> = 8.13010235415587 [code: found-jaggy-segments]
-</div></details><br></div></details><details><summary><b>[21] PitagonSans-Medium.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[20] PitagonSans-Medium.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -3884,21 +3814,7 @@ notequal
 	* uni1EB5 (U+1EB5): L<<488.0,346.0>--<487.0,106.0>> 
 
 	* uni1EB7 (U+1EB7): L<<488.0,346.0>--<487.0,106.0>> [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[22] PitagonSans-SemiBold.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Familyname must be unique according to namecheck.fontdata.com (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fontdata_namecheck">com.google.fonts/check/fontdata_namecheck</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed to access: http://namecheck.fontdata.com.
-		This check relies on the external service http://namecheck.fontdata.com via the internet. While the service cannot be reached or does not respond this check is broken.
-
-		You can exclude this check with the command line option:
-		-x com.google.fonts/check/fontdata_namecheck
-
-		Or you can wait until the service is available again.
-		If the problem persists please report this issue at: https://github.com/googlefonts/fontbakery/issues
-
-		Original error message:
-		<class 'requests.exceptions.ConnectionError'> [code: namecheck-service]
-</div></details><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+</div></details><br></div></details><details><summary><b>[21] PitagonSans-SemiBold.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
 * 🔥 **FAIL** Missing required codepoints:
@@ -4701,8 +4617,8 @@ notequal
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 6 | 42 | 79 | 698 | 37 | 510 | 0 |
-| 0% | 3% | 6% | 51% | 3% | 37% | 0% |
+| 0 | 42 | 79 | 698 | 37 | 516 | 0 |
+| 0% | 3% | 6% | 51% | 3% | 38% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
