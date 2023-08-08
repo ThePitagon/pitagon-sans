@@ -22,7 +22,7 @@ from PIL import ImageFont, ImageDraw, Image
 
 # Set the size of the font.
 FONT_SIZE = 500
-FONT_PATH_1 = "sources/release/v1.0.1/ttf/PitagonSans-Regular.ttf"
+FONT_PATH_1 = "documentation/maven-pro/MavenPro-Regular.ttf"
 FONT_PATH_2 = "fonts/ttf/PitagonSans-Regular.ttf"
 NUM_CHAR_LINE = 20
 LINE_GAP = 50
@@ -144,5 +144,21 @@ if __name__ == "__main__":
     # If a string in the list is longer than NUM_CHAR_LINE characters, it will be split into multiple lines:
     # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output,
     #                           ["ABCDEFGHIJKLMNOPQRSTUVWXYZ", "ABCDEFGHIJKL", "MNOPQRSTUVWXYZ"])
+    # Alphabet Characters
+    # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output,
+    #                           ["A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    #                            "a b c d e f g h i j k l m n o p q r s t u v w x y z"])
+    # Numeric Characters
+    # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output, ["0 1 2 3 4 5 6 7 8 9"])
+    # Symbol Characters
+    # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output,
+    #                           [". , ? ! ; : ' \" ( ) [ ] { } - – — ... ·",
+    #                            "+ - = * / < > ^ ~",
+    #                            "$ € £ ¥ ¢",
+    #                            "& @ # % _ | \ ` ¨ ´ °"])
+    # Extended Characters
+    # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output, ["é è ê ë á à â ä ñ ö ü ï ô û", "ç õ ò ì í î"])
+    # Ligatures and Typographical Features
+    # generate_comparison_image(FONT_PATH_1, FONT_PATH_2, output, ["ff fi fl ffi ffl"])
 
     print("Characters Comparison: Done")
